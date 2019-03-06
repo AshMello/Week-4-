@@ -1,0 +1,39 @@
+html {
+    font-family: 'Quicksand', sans-serif;
+}
+
+#btnAdd , .btnDel {
+    background-color: dodgerblue;
+    border-color: antiquewhite;
+    color: white;
+    height: 25px;
+}
+
+#textField {
+    color: lightslategrey;
+    width: 200px;
+    height: 25px;
+}
+
+.taskBar {
+    text-align: center;
+
+}
+
+#head {
+    text-align: center;
+    color: dodgerblue;
+}
+
+.task {
+    list-style: none;
+}
+
+.pendingTasks {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.completeTasks {
+    text-align: center;
+}
