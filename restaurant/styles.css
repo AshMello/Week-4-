@@ -1,0 +1,35 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 42px;
+    padding-top: 15px;
+}
+
+#totalmenu {
+    background-color: pink;
+}
+.liobj {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#buttonmenu {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+button {
+    background-color: grey;
+    color: white;
+    height: 40px;
+    padding: 10px;
+}
+
+img {
+    float: left;
+}
